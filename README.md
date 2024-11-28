@@ -1,2 +1,8 @@
 # badwordbuster
-BadwordBuster is a PHP script that uses AI to scan and detect inappropriate content, such as bad words, insults, and offensive language in user inputs. It helps ensure safer communication by filtering harmful language in forms, comments, and more. Simple, fast, and effective content moderation.
+BadwordBuster is a multi-language tool that uses AI to detect inappropriate content, such as bad words, insults, and offensive language. Available in PHP, Python, Node.js, Java, Ruby, Go, C#, Rust, Swift, and Lua, it helps ensure safer user interactions across various platforms and applications.
+
+
+
+
+
+
